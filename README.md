@@ -1,4 +1,4 @@
-# ableismnow.github.io
+# GitHub Repository (ableismnow.github.io)
 ## Ableism & Healthcare Now is an independent research and analysis project exploring structural ableism in public health and healthcare.
 This repository provides accessible HTML versions of research briefs produced by the Ableism & Healthcare Now project, along with associated analytic code, datasets, and supplementary materials.
 ## Archive of Research Publications
